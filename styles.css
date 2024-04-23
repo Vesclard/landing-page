@@ -36,6 +36,7 @@ a {
 
 .hero {
   display: flex;
+  padding: 52px 0px;
 }
 
 .hero-main {
