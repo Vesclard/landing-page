@@ -48,6 +48,7 @@ a {
 .subtext {
   font-size: 18px;
   color: #e5e7eb;
+  margin-bottom: 0.5em;
 }
 
 .button {
