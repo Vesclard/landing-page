@@ -95,6 +95,7 @@ a {
 .cards {
   display: flex;
   gap: 32px;
+  margin-bottom: 64px;
 }
 
 .card {
