@@ -69,6 +69,7 @@ a {
   align-items: center;
   border-radius: 8px;
   font-weight: bold;
+  flex: 0 0 7.5em;
 }
 
 .info {
