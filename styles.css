@@ -129,6 +129,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 8px;
   margin: 64px 10vh;
   padding: 2em 52px;
   border-radius: 8px;
