@@ -48,3 +48,13 @@ a {
   font-size: 18px;
   color: #e5e7eb;
 }
+
+.button {
+  background-color: #3882f6;
+  width: 7.5em;
+  height: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+}
