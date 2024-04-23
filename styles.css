@@ -138,3 +138,12 @@ a {
 .action-subtitle {
   font-size: 18px;
 }
+
+.footer {
+  height: 4em;
+  font-size: 18px;
+  color: #f9faf8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
