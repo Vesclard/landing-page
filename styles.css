@@ -57,4 +57,10 @@ a {
   justify-content: center;
   align-items: center;
   border-radius: 8px;
+  font-weight: bold;
+}
+
+.info-title {
+  font-size: 36px;
+  font-weight: bolder;
 }
