@@ -25,6 +25,13 @@ a {
   color: #f9faf8;
 }
 
+.header,
+.hero,
+.info {
+  padding-left: 10vh;
+  padding-right: 10vh;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -38,7 +45,8 @@ a {
 
 .hero {
   display: flex;
-  padding: 64px 0px;
+  padding-top: 64px;
+  padding-bottom: 64px;
 }
 
 .hero-main {
@@ -100,7 +108,7 @@ a {
   font-size: 36px;
   font-weight: 200;
   font-style: italic;
-  padding: 64px 0;
+  padding: 64px 20vh;
   display: flex;
   flex-direction: column;
 }
@@ -120,8 +128,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 64px;
-  margin-bottom: 64px;
+  margin: 64px 10vh;
   padding: 2em 52px;
   border-radius: 8px;
 }
