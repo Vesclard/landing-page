@@ -64,6 +64,7 @@ a {
 .info-title {
   font-size: 36px;
   font-weight: bolder;
+  margin: 32px 0;
 }
 
 .cards {
