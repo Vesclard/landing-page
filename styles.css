@@ -61,6 +61,12 @@ a {
   font-weight: bold;
 }
 
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .info-title {
   font-size: 36px;
   font-weight: bolder;
@@ -69,7 +75,7 @@ a {
 
 .cards {
   display: flex;
-  justify-content: center;
+  gap: 32px;
 }
 
 .card {
@@ -82,4 +88,6 @@ a {
 
 .cards .subtext {
   color: #555555;
+  width: 200px;
+  text-align: center;
 }
