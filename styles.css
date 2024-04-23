@@ -44,7 +44,7 @@ a {
   font-weight: bolder;
 }
 
-.hero-text {
+.subtext {
   font-size: 18px;
   color: #e5e7eb;
 }
@@ -76,4 +76,8 @@ a {
   border: 3px solid;
   border-color: #3882f6;
   border-radius: 16px;
+}
+
+.cards .subtext {
+  color: #555555;
 }
