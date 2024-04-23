@@ -64,3 +64,16 @@ a {
   font-size: 36px;
   font-weight: bolder;
 }
+
+.cards {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  width: 200px;
+  height: 200px;
+  border: 3px solid;
+  border-color: #3882f6;
+  border-radius: 16px;
+}
