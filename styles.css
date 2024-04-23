@@ -24,3 +24,8 @@ a {
   display: flex;
   justify-content: space-between;
 }
+
+.header-logo {
+  font-size: 24px;
+  font-weight: bold;
+}
