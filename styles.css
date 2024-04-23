@@ -61,6 +61,9 @@ a {
 .subtext {
   font-size: 18px;
   color: #e5e7eb;
+}
+
+.hero .subtext {
   margin-bottom: 0.5em;
 }
 
@@ -153,10 +156,6 @@ a {
 .action-title {
   font-size: 24px;
   font-weight: bold;
-}
-
-.action-subtitle {
-  font-size: 18px;
 }
 
 .footer {
